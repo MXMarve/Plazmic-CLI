@@ -226,7 +226,7 @@ def main():
         print("  <-- List Servers -->\n")
         servers = server_list.get_servers()
         for server in servers:
-          print("  "+server[0], server[1], server[3]+"\n")
+          print("  "+server[0], server[1], server[2]+"\n")
         input("  Enter to go back")
 
     elif choice == "2":

@@ -10,7 +10,7 @@
  Found issues but fixed it? Create a pull request in https://github.com/MXMarve/Plazmic-Panel/pulls
 # Installation
  ```
-    git clone https://github.com/mxmarve/plazmic-panel.git
-    cd [Your downloads dir]/Plazmic-Panel
+    git clone https://github.com/mxmarve/plazmic.git
+    cd [Your downloads dir]/Plazmic
     python program.py
  ```

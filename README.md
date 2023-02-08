@@ -8,9 +8,11 @@
  Any issues? Put them in https://github.com/MXMarve/Plazmic-Panel/issues 
  
  Found issues but fixed it? Create a pull request in https://github.com/MXMarve/Plazmic-Panel/pulls
+ 
+ Download Installer Here: https://github.com/MXMarve/Plazmic/releases/download/v2.0/PlazmicInstaller.exe
 # Installation
  ```
-    Download Installer Here: https://github.com/MXMarve/Plazmic/releases/download/v2.0/PlazmicInstaller.exe
+    Download Installer <a href="https://github.com/MXMarve/Plazmic/releases/download/v2.0/PlazmicInstaller.exe">Here</a>
     
     I recommend using create desktop shortcut
     Note - Program must be run as administrator. Some issue with add servers function and permissions

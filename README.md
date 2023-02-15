@@ -1,4 +1,7 @@
-# Plazmic Panel
+# Plazmic Panel CLI
+
+New Application https://github.com/mxmarve/PlazmicPanel
+
  CLI Server Management
  Dependencies automatically install
  pls dont repost on other githubs/sites, and give credit where due
